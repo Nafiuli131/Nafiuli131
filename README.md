@@ -1,12 +1,12 @@
 # About-me
 # Hi, I'm Nafiul Islam 👋
-I'm a passionate full-stack developer experienced in building web applications using Java, Spring Boot, React, and Docker. 
+I'm a passionate full-stack developer experienced in building web applications using Java, Spring Boot, React. 
 
 ## 🛠️ Tech Stack
 - 💻 Languages: Java, JavaScript
 - 🌐 Frameworks: Spring Boot, React
 - 🛢️ Databases: MySQL, MSSql, PostgreSQL
-- ⚙️ Tools: Docker, Git
+- ⚙️ Tools: Git
 
 ## 📊 GitHub Stats
 ![Nafiul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nafiuli131&show_icons=true&theme=radical)
