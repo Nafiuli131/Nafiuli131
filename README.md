@@ -68,7 +68,7 @@ I've worked with teams & clients across the **US, Japan, and India**, delivering
 
 ## 📫 How to Reach Me  
 📧 Email: **nafiuli131@gmail.com**  
-🔗 LinkedIn: [linkedin.com/in/nafiul-islam]([https://www.linkedin.com/in/nafiul-islam](https://www.linkedin.com/in/nafiul-islam-849265129/))
+🔗 LinkedIn: [linkedin.com/in/nafiul-islam](https://www.linkedin.com/in/nafiul-islam-849265129/)
 
 ---
 
