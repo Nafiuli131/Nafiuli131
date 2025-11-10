@@ -64,12 +64,6 @@ I've worked with teams & clients across the **US, Japan, and India**, delivering
 
 ---
 
-## 📊 GitHub Stats
-
-![Nafiul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nafiuli131&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nafiuli131&layout=compact&theme=tokyonight)
-
 ---
 
 ## 📫 How to Reach Me  
@@ -79,10 +73,11 @@ I've worked with teams & clients across the **US, Japan, and India**, delivering
 ---
 
 ## 🤝 Open To  
-✅ Collaborating on impactful backend engineering initiatives
-✅ System design & architecture discussions
-✅ Solving high-scale backend or performance challenges
-✅ Meaningful technical connections & knowledge sharing
+✅ **Collaborating on impactful backend engineering initiatives**  
+✅ **System design & architecture discussions**  
+✅ **Solving high-scale backend or performance challenges**  
+✅ **Meaningful technical connections & knowledge sharing**  
+
 
 ---
 
