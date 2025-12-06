@@ -33,11 +33,6 @@ I've worked with teams & clients across the **US, Japan, and India**, delivering
 - Optimized with Redis caching → **40% cost reduction**  
 - Tech: Java, Spring Boot, PostgreSQL, Redis, Microservices  
 
-### 🔹 Airline Management System  
-- Worked on flight, fuel, fleet & tool management modules  
-- Improved backend performance & data workflows  
-- Tech: Java, Spring Boot, MS SQL  
-
 ### 🔹 Convay Video Conferencing System  
 - Built full-stack features for meeting scheduling & tracking  
 - Frontend: React • Backend: Spring Boot Microservices  
